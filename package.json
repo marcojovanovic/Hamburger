@@ -1,0 +1,12 @@
+{
+  "name": "mine",
+  "version": "1.0.0",
+  "description": "'proba'",
+  "main": "index.js",
+  "homepage":"https://marcojovanovic.github.io/MadWin",
+  "scripts": {
+    "deploy":"gh-pages -d dist"
+  },
+  "author": "'mare'",
+  "license": "ISC"
+}
